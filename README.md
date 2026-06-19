@@ -91,5 +91,6 @@ We are looking for collaborators and supporters to help us deploy this on edge d
    streamlit run run.py
    ```
 
+
 ---
 *Created with ❤️ and ☕ by Manamnath Tiwari.*
